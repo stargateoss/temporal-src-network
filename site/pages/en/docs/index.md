@@ -49,7 +49,7 @@ Requires `python3` to run.
 
 ## Releases
 
-The currently latest version of `temporal-src-network` is `v0.0.0`.
+The currently latest version of `temporal-src-network` is `v0.1.0`.
 
 - [GitHub releases](https://github.com/stargateoss/temporal-src-network/releases).
 

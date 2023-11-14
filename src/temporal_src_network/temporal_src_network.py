@@ -37,7 +37,7 @@ try:
 except Exception:
     pass
 
-VERSION = "0.0.0"
+VERSION = "0.1.0"
 
 LOG_TAG = "temporal_src_network"
 
