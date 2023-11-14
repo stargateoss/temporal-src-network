@@ -1,0 +1,22 @@
+[MESSAGES CONTROL]
+
+disable=broad-except,
+		broad-exception-caught,
+		invalid-name,
+		line-too-long,
+        logging-not-lazy,
+        missing-function-docstring,
+        missing-module-docstring,
+        multiple-statements,
+        no-else-return,
+        no-else-continue,
+        too-few-public-methods,
+		too-many-arguments,
+		too-many-branches,
+		too-many-instance-attributes,
+		too-many-lines,
+		too-many-locals,
+		too-many-nested-blocks,
+		too-many-public-methods,
+		too-many-return-statements,
+		too-many-statements
